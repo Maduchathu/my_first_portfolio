@@ -1,6 +1,6 @@
 .my-pic {
-    width: 200px;
-    height: 300px;
+    width: 260px;
+    height: 320px;
     border-radius: 5rem;
 }
 
@@ -46,6 +46,6 @@ body {
     color: white;
 }
 
-.text-bold{
+.text-bold {
     font-weight: bold;
 }
