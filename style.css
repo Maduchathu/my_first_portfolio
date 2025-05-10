@@ -7,3 +7,45 @@
 .hero-section {
     padding: 100px;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.active-link {
+    color: #6c55e1 !important;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.text-color {
+    color: #6c55e1;
+}
+
+.nav-link:hover {
+    color: #6c55e1 !important;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.my-footer {
+    background-color: #6c55e1;
+    color: #000;
+}
+
+.footer-text {
+    color: #000;
+}
+
+.my-button {
+    background-color: #6c55e1;
+    color: white;
+}
+
+.text-bold{
+    font-weight: bold;
+}
